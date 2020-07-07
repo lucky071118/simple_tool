@@ -1,3 +1,6 @@
 [submodule "program"]
 	path = program
 	url = https://github.com/Linsan515/program.git
+[submodule "lucky"]
+	path = lucky
+	url = https://github.com/lucky071118/lucky.git
